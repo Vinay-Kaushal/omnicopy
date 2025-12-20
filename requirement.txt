@@ -1,0 +1,8 @@
+python-dotenv==1.2.1
+python-multipart==0.0.21
+PyYAML==6.0.3
+rignore==0.7.6
+shellingham==1.5.4
+typing_extensions==4.15.0
+urllib3==2.6.2
+websockets==15.0.1
