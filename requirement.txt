@@ -1,8 +1,15 @@
+annotated-types==0.7.0
+greenlet==3.3.0
+pydantic==2.12.5
+pydantic_core==2.41.5
 python-dotenv==1.2.1
 python-multipart==0.0.21
 PyYAML==6.0.3
 rignore==0.7.6
 shellingham==1.5.4
+SQLAlchemy==2.0.45
+sqlmodel==0.0.29
+typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.6.2
 websockets==15.0.1
